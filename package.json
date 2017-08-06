@@ -1,0 +1,21 @@
+{
+  "name": "grocerystoreapi",
+  "version": "1.0.0",
+  "description": "Assignment 04 v 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "hapi": "^16.5.2",
+    "joi": "^10.6.0",
+    "mongodb": "^2.2.30"
+  }
+}
